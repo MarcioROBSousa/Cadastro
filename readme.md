@@ -25,10 +25,10 @@ Ele valida um formulário básico de nome, e-mail e idade, e verifica se o nome 
 
 ---
 
-💡 Melhorias futuras
-⬜ Salvar os cadastros em LocalStorage.
-⬜Adicionar opção de excluir ou editar um cadastro.
-⬜Conectar com backend (Node.js + Express) para armazenar os dados em um banco.
-⬜Criar uma interface mais responsiva e estilizada com CSS avançado ou frameworks (Bootstrap / Tailwind).
-⬜Validação de e-mail e idade mais detalhada.
-⬜Exibir a lista de cadastrados dinamicamente em uma tabela abaixo do formulário.
+💡 Melhorias futuras <br>
+⬜ Salvar os cadastros em LocalStorage. <br>
+⬜Adicionar opção de excluir ou editar um cadastro. <br>
+⬜Conectar com backend (Node.js + Express) para armazenar os dados em um banco. <br>
+⬜Criar uma interface mais responsiva e estilizada com CSS avançado ou frameworks (Bootstrap / Tailwind). <br>
+⬜Validação de e-mail e idade mais detalhada. <br>
+⬜Exibir a lista de cadastrados dinamicamente em uma tabela abaixo do formulário. <br>
